@@ -13,4 +13,4 @@ spring:
 spring:
   profiles: stg
   data:
-      mongodb.uri: ${MONGODB_URI}
+      mongodb.uri: ${MONGO_URI}
